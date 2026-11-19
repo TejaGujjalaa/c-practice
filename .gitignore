@@ -1,1 +1,6 @@
-hello
+*
+!*/
+!*.c
+!*.h
+!*.md
+!.gitignore
