@@ -37,3 +37,18 @@ A. = is the assignment operator. == is the equality operator.
 
 5. What is the difference between break and continue?
 A. break immediately terminates the nearest loop.continue does not end the loop and it skips the some of statements.
+
+
+Day 4
+Date: 21/Nov/2026
+Time: 11:50pm
+
+
+1. What is the difference between declaring and defining a function?
+A. declaring is like telling compiler about datatypes, names and parameters while defining is like implementation of function and like actual operations to be performed.
+
+2. What is the difference between a parameter and an argument?
+A. a parameter is a variable that assign in the function where as arguments are values that are passed to that function to the place of parameters.
+
+3. What does void mean as a return type?
+A. to exit a function early we  use void, but that does not return any value. 
