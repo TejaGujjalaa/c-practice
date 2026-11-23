@@ -66,7 +66,7 @@ A. a parameter is a variable that assign in the function where as arguments are 
 
 A. to exit a function early we  use void, but that does not return any value. 
 
-## Day 5
+## Day 6
 **Date:** 23/Nov/2026
 **Time:** 09:05pm
 
