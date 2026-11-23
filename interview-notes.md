@@ -65,3 +65,32 @@ A. a parameter is a variable that assign in the function where as arguments are 
 **3. What does void mean as a return type?**
 
 A. to exit a function early we  use void, but that does not return any value. 
+
+## Day 5
+**Date:** 23/Nov/2026
+**Time:** 09:05pm
+
+**1. Is C call by value or call by reference?**
+
+A. C supports call by value. When we pass an argument to a function, a copy of its value is passed, so modifications inside the function do not affect the original variable.
+
+**2. What is the difference between scope and lifetime?**
+
+A. Scope defines where a variable can be accessed in a program, whereas lifetime defines how long a variable exists in memory during program execution.
+
+**3. What happens if a local and global variable have the same name?**
+
+A. The local variable shadows the global variable within its scope. When we access that variable inside the local scope, the local variable takes precedence over the global variable.
+
+**1. What does static do to a local variable?**
+
+A. The static keyword extends the lifetime of a local variable throughout the entire program execution. It retains its value between function calls, but its scope remains limited to the block in which it is declared.
+
+**2. What does extern mean?**
+
+A. The extern keyword declares a variable or function that is defined elsewhere. It tells the compiler that the declaration refers to an existing external definition.
+
+**3. What is the default value of an uninitialized local, global and static variable?**
+
+A. Local variable Has an indeterminate value.Global variable and Static variable automatically initialized to zero.
+
